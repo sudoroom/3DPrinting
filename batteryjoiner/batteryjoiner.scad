@@ -1,9 +1,9 @@
 THICKNESS=3.5; // mm
 WALLTHICK=5; // thickness of walls around holes
-SHAFTWIDTH=8.8;
+SHAFTWIDTH=9; // 8.8;
 SHAFTHEIGHT=1.3; // exposed part of shaft when screwed down
 PLUSSPACING=41.2; // spacing between screws on two-post (+) side
-HANDLEWIDTH=13.1;
+HANDLEWIDTH=14; // 13.1;
 SLOTLENGTH=15;
 TERMDISTANCE=129.3;
 ABIT=0.1; // for differences, which should be a bit larger
